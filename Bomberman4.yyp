@@ -87,14 +87,6 @@
             }
         },
         {
-            "Key": "275950af-b0f1-40a9-a919-e87ab224a514",
-            "Value": {
-                "id": "ae0341db-bea5-4174-9793-9926ee75c58f",
-                "resourcePath": "sprites\\Bomberman_witd\\Bomberman_witd.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2f519355-7184-4781-b049-550438da0a32",
             "Value": {
                 "id": "61096bae-48fa-4624-b8f3-77cf8d23216d",
