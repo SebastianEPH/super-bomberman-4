@@ -1,6 +1,6 @@
 
 {
-    "name": "sl_rom1",
+    "name": "room_pruebas",
     "id": "046aeee3-1b2e-4366-b6fd-220fe16be28e",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -12,6 +12,32 @@
     ],
     "IsDnD": false,
     "layers": [
+        {
+            "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Base",
+            "id": "2863f24c-8ff0-4632-ae3e-51fdd6c860de",
+            "assets": [
+
+            ],
+            "depth": -5100,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRAssetLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "ins_personaje_objetos",
@@ -45,7 +71,7 @@
             "id": "e35fd579-8327-439b-869a-5b3d7e475ec9",
             "animationFPS": 0,
             "animationSpeedType": "0",
-            "colour": { "Value": 4294245887 },
+            "colour": { "Value": 4278190335 },
             "depth": 5000,
             "grid_x": 32,
             "grid_y": 32,
