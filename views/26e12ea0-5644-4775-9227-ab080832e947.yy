@@ -7,7 +7,7 @@
         "33462be4-5294-43f5-86d9-8536e61898e3"
     ],
     "filterType": "GMSprite",
-    "folderName": "World_2",
+    "folderName": "World_2 - ModernEra",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

@@ -2,7 +2,7 @@
     "id": "33462be4-5294-43f5-86d9-8536e61898e3",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Sets_ModerEra",
+    "name": "spr_master_modernera",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -58,7 +58,7 @@
             "Key": "0850c62e-e2b6-40e8-b9ff-857f2d364de1",
             "Value": {
                 "id": "af20ca1d-f737-42e8-a3fa-5c71e1d1bded",
-                "resourcePath": "objects\\object3\\object3.yy",
+                "resourcePath": "objects\\obj_bomba_standard\\obj_bomba_standard.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -67,6 +67,14 @@
             "Value": {
                 "id": "fc92b212-92a1-42df-a3a4-b032af5f29c3",
                 "resourcePath": "views\\0f7ffad8-d268-4f06-b4d9-e7b43bf21b1f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1d5d3d3c-6cf5-4ef4-8f72-1dd3070d08e5",
+            "Value": {
+                "id": "aa09a6e9-5248-4d00-bf65-0753c77e8609",
+                "resourcePath": "views\\1d5d3d3c-6cf5-4ef4-8f72-1dd3070d08e5.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -90,7 +98,15 @@
             "Key": "33462be4-5294-43f5-86d9-8536e61898e3",
             "Value": {
                 "id": "641c0f7a-66f3-407f-9454-52861c22c1a4",
-                "resourcePath": "sprites\\Sets_ModerEra\\Sets_ModerEra.yy",
+                "resourcePath": "sprites\\spr_master_modernera\\spr_master_modernera.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3390f069-0292-4b94-b9d7-627bfbfe8359",
+            "Value": {
+                "id": "c66c3ba0-d73d-4920-814d-e986c024a20a",
+                "resourcePath": "sprites\\spr_alarm_red\\spr_alarm_red.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -220,6 +236,14 @@
                 "id": "25bbbb19-6183-4f6e-a28c-3aff2726d091",
                 "resourcePath": "sprites\\spr_bomber_trasero\\spr_bomber_trasero.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "590b9f98-8ac7-464c-9fdd-4d1363d31ae9",
+            "Value": {
+                "id": "da270953-ef1d-4427-ad80-e1d637ac7693",
+                "resourcePath": "objects\\obj_alarm\\obj_alarm.yy",
+                "resourceType": "GMObject"
             }
         },
         {
