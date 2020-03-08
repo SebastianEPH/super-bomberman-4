@@ -1,28 +1,30 @@
 // @description Movimientos y aniamción del del personaje
 //Inicip de script
    
+if keyboard_check_pressed(vk_right) {//&& place_free(x+1,y) {//&& place_snapped(32,32){// &&  // Derecha
+			direction = 0;
 
-if keyboard_check(vk_right) && place_free(x+1,y) {//&& place_snapped(1,1){// &&  // Derecha
-	direction = 0;
-	move_snap(16, 16);
-	speed = 2;
-	break;
-	}
-if keyboard_check(vk_left) && place_free(x-1,y){//&& place_snapped(16,16){ //  // Izquierda
-	direction = 180;
-	move_snap(16, 16);
-	speed = 2 ;
-	}
-if keyboard_check(vk_up) && place_free(x,y-1) {//&& place_snapped(16,16){// // Arriba
-	direction = 90;
-	move_snap(16, 16);
-	speed = 2;
-	}
-if keyboard_check(vk_down)&& place_free(x,y+1) {//&& place_snapped(16,16){  // // Abajo
-	direction = 270;
-	move_snap(16, 16);
-	speed = 2 ;
-	}
+			speed = velocidad;
+			}
+if keyboard_check_pressed(vk_left) {//&& place_free(x-1,y){//&& place_snapped(32,32){ //  // Izquierda
+			direction = 180;
+	
+			speed = velocidad;
+			}
+if keyboard_check_pressed(vk_up) {//&& place_free(x,y-1) {//&& place_snapped(32,32){// // Arriba
+			direction = 90;
+	
+			speed = velocidad;
+			}
+if keyboard_check_pressed(vk_down){//&& place_free(x,y+1) {//&& place_snapped(32,32){  // // Abajo
+			direction = 270;
+	
+			speed = velocidad;
+			}
+if keyboard_check_released(vk_down) || keyboard_check_released(vk_up) || keyboard_check_released(vk_left) ||keyboard_check_released(vk_right) {
+speed = 0
+}
+
 	
 //if keyboard_{
 //	speed = 0;

@@ -2,7 +2,7 @@
     "id": "db5de508-2ceb-417e-8b94-28dc46cbea73",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "control",
+    "name": "ModerEra_3_1_Control",
     "eventList": [
         {
             "id": "d672d7fe-c185-4234-a3eb-f845144631de",
