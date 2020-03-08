@@ -2,25 +2,21 @@
 //Inicip de script
     
 
-if keyboard_check(vk_up){ // Arriba
-	direction = 90;
-	speed = v;
-
-	}
-if keyboard_check(vk_down){ // Abajo
-	direction = 270;
-	speed = v;
-		
-	}
-if keyboard_check(vk_right){ // Derecha
+if keyboard_check(vk_right) && place_free(x+1,y) && place_snapped(10,10){ // Derecha
 	direction = 0;
 	speed = v;
-			
 	}
-if keyboard_check(vk_left){ // Izquierda
+if keyboard_check(vk_left) && place_free(x-1,y) && place_snapped(10,10){ // Izquierda
 	direction = 180;
-	speed = v;
-		
+	speed = v ;
+	}
+if keyboard_check(vk_up) && place_free(x,y-1) && place_snapped(10,10){ // Arriba
+	direction = 90;
+	speed = v ;
+	}
+if keyboard_check(vk_down)&& place_free(x,y+1) && place_snapped(10,10){ // Abajo
+	direction = 270;
+	speed = v ;
 	}
 	
 //if keyboard_{
