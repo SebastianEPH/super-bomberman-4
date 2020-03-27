@@ -9,7 +9,7 @@
         "91e72e2f-f826-4468-a1a9-7a979f8357d7"
     ],
     "filterType": "GMSprite",
-    "folderName": "bombas",
+    "folderName": "Bombaas",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

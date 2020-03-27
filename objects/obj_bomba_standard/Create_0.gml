@@ -4,4 +4,4 @@
 
 
 // La alarma Sonará en 5 segundos, para que ésta instancia se destruya
-alarm[0] = 90//*delta_time
+alarm[0] = 300//*delta_time

@@ -7,8 +7,8 @@
 	/* VARIABLE GLOBAL INT: tipoBomba
 	 * Ésta variable almacena el tipo de bomba que el personaje tiene actualmente
 	 */
-	global.tipoBomba1 = 0;	//Player1	
-	global.tipoBomba2 = 0;	//Player2		
+	global.bombaType1 = 0;	//Player1	
+	global.bombaType2 = 0;	//Player2		
 												/*	0 = Bomba normal
 													1 = Bomba Espina
 													2 = Bomba de tiempo
@@ -16,8 +16,14 @@
 	/* VARIABLE GLOBAL INT: cantidadBomba
 	 * Ésta variable almacena: La cantidad de bombas que puede colocar 
 	 */
-	global.cantidadBomba1 = 1;	//Player1
-	global.cantidadBomba2 = 1;	//Player2				/* El valor puede fructuar entre un mínimo de 1 a 10 como máximo */
+	global.bombaCantidad1 = 1;	//Player1
+	global.bombaCantidad2 = 1;	//Player2				/* El valor puede fructuar entre un mínimo de 1 a 10 como máximo */
+	
+	/* VARIABLE GLOBAL INT: bombaExplosion
+	 * Ésta variable almacena: Cuanto es el largo de la expolsión de una bomba 
+	 */
+	global.bombaExplosion1 = 2;	//Player1
+	global.bombaExplosion2 = 2;	//Player2				/* El valor puede fructuar entre un mínimo de 2 a 10 como máximo */
 											
 	/* VARIABLE GLOBAL bool: cruzaParedes
 	 * Ésta variable almacena: El personaje actualmente puede cruzar o no paredes

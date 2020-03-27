@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "09edb330-7e9d-45d0-b8e3-a53fccbe95db",
+            "Value": {
+                "id": "fc212cd3-23de-4f25-808d-d1fdd64d1aab",
+                "resourcePath": "objects\\obj_bomba_epina\\obj_bomba_epina.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0f7ffad8-d268-4f06-b4d9-e7b43bf21b1f",
             "Value": {
                 "id": "fc92b212-92a1-42df-a3a4-b032af5f29c3",

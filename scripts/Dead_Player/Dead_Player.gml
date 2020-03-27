@@ -1,4 +1,4 @@
-// Ésta funcion reincia algunas variables Globales.
+/// Se Ejecuta cuando el Personaje Pierde
 // Ya que el personaje murio, y pierde ciertas caracteristicas
 
 
