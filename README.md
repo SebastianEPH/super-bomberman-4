@@ -68,6 +68,7 @@
     - Bridge 
 - Enemies
     - Boyoyon Baby
+        ![Boyoyon Baby](https://vignette.wikia.nocookie.net/bomberman/images/3/3e/BoyoyoBabysprite.PNG/revision/latest?cb=20090912195342)
     - Doronpa
     - Crazy Balloon
     - Bobo
