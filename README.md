@@ -56,6 +56,22 @@
     - Area 5-4
     - Area 5-5
     - Area 5-6
+- Type Bomb
+    - Remote Bomb
+
+        ![Remote Bomb](https://vignette.wikia.nocookie.net/bomberman/images/e/e6/Remote_Control_2.png/revision/latest?cb=20110220045749)
+    - Power Bomb
+
+        ![Power Bomb](https://vignette.wikia.nocookie.net/bomberman/images/3/31/Powerbombsprite.PNG/revision/latest?cb=20090317140539)
+    - Red Bomb
+    
+        ![Red Bomb](https://vignette.wikia.nocookie.net/bomberman/images/8/85/RedBombsprite.png/revision/latest?cb=20100821173605)
+    - Pierce Bomb
+
+        ![Pierce Bomb](https://vignette.wikia.nocookie.net/bomberman/images/0/0f/Piercebombsprite.PNG/revision/latest?cb=20090318201229)
+    - Dangerous Bomb
+
+        ![Dangerous Bomb](https://vignette.wikia.nocookie.net/bomberman/images/d/da/Dangerous_Bomb.png/revision/latest?cb=20110718073805)
 - Traps
     - Signal Floor
     - Tunnel  
@@ -178,7 +194,7 @@
     - __BOSS:__ Bagura Head
 
         ![Bagura Head](https://vignette.wikia.nocookie.net/bomberman/images/d/d9/BaguraHeadsprite.png/revision/latest?cb=20120216005626)
-- Items
+- __Items__  ![Items](https://vignette.wikia.nocookie.net/bomberman/images/c/c6/Power_Ups.png/revision/latest/scale-to-width-down/300?cb=20110222052314)
     - ![RemoteControl](https://vignette.wikia.nocookie.net/bomberman/images/d/d0/SB4RemoteControl.png/revision/latest?cb=20120506142825) Remote Control
     - ![Heart](https://vignette.wikia.nocookie.net/bomberman/images/0/00/SB4Heart.png/revision/latest?cb=20120506142711) Heart
     - ![Power Glove](https://vignette.wikia.nocookie.net/bomberman/images/b/bb/SB4PowerGlove.png/revision/latest?cb=20120506142742) Power Glove
