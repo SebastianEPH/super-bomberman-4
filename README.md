@@ -137,7 +137,44 @@
         - Select Item
         - Heart 
 - Stage 4: Super Future
-    
+    - Area
+        - Area 4-1
+        - Area 4-2
+        - Area 4-3
+        - Area 4-4
+        - Area 4-5
+        - Area 4-6
+        - Area 4-7
+        - Area 4-8
+    - Traps
+        - Signal Floor
+        - Tunnel 
+    - Enemies
+        - Boyoyon Baby
+        - Doronpa
+        - Crazy Balloon
+        - Bobo
+        - Esper
+        - Psycho Man
+        - Dancing Clown
+        - RIVAL: Bazooka Bomber
+        - BOSS: Centibeetle 
+    - Items
+        - Bomb Up
+        - Fire
+        - Glove
+        - Punch
+        - 1 Up
+        - Crepe
+        - Select Item
+        - Remote Control
+        - Push
+        - Bomb Kick
+        - Pierce Bomb
+        - Invincible Suit
+        - Samurai Ball
+        - Jelly
+        - Heart 
 - Stage 5: Hyperspace 
 
 
