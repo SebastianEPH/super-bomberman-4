@@ -1,4 +1,7 @@
 # Super Bomberman 4
+
+![logo Super Bomberman](https://vignette.wikia.nocookie.net/bomberman/images/0/0c/Super_Bomberman_4_Logo.gif/revision/latest/fixed-aspect-ratio-down/width/384/height/384?cb=20120623202820&fill=transparent)
+
 **Éste proyecto se encuentra en desarrollo**
 
 ## Capturas de pantalla del proyecto
@@ -63,9 +66,6 @@
     - Power Bomb
 
         ![Power Bomb](https://vignette.wikia.nocookie.net/bomberman/images/3/31/Powerbombsprite.PNG/revision/latest?cb=20090317140539)
-    - Red Bomb
-    
-        ![Red Bomb](https://vignette.wikia.nocookie.net/bomberman/images/8/85/RedBombsprite.png/revision/latest?cb=20100821173605)
     - Pierce Bomb
 
         ![Pierce Bomb](https://vignette.wikia.nocookie.net/bomberman/images/0/0f/Piercebombsprite.PNG/revision/latest?cb=20090318201229)
