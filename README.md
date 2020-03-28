@@ -15,6 +15,15 @@
 # Stages
 
 - Stage 1: Primeval Era
+    - Areas
+        - Area 1-1
+        - Area 1-2
+        - Area 1-3
+        - Area 1-4
+        - Area 1-5
+        - Area 1-6
+        - Area 1-7
+        - Area 1-8
     - Traps
         - Falling Rocks
         - Wohho Safehouse
@@ -26,18 +35,109 @@
         - Dogun Jr.
         - Angora
         - RIVAL: Hammer Bomber
-        - BOSS: Dogun 
-    - Areas
-        - Area 1-1
-        - Area 1-2
-        - Area 1-3
-        - Area 1-4
+        - BOSS: Dogun
+    - Items
+        - Bomb Up
+        - Fire
+        - Speed Up
+        - Time
+        - Glove
+        - Heart
+        - Punch
+        - Pierce Bomb
+        - Bomb Pass
+        - Cake
+        - Bomb Kick
+        - Select Item
+        - Potato
+        - Push  
+    
 - Stage 2: Edo Era
+    - Areas
+        - Area 2-1
+        - Area 2-2
+        - Area 2-3
+        - Area 2-4
+        - Area 2-5
+        - Area 2-6
+        - Area 2-7
+        - Area 2-8
 
+    - Traps
+        - Trick Floor
+        - Trolley 
+    - Enemies
+        - Fire Ninja
+        - Jump Ninja
+        - Pitch Ninja
+        - Missile Man
+        - Ponpon
+        - Swim
+        - Daruman
+        - Peran
+        - Pakkunga
+        - RIVAL: Jet Bomber
+        - BOSS: Machinder
+    - Items
+        - Bomb Up
+        - Fire
+        - Speed Up
+        - Potato
+        - Bomb Pass
+        - Punch
+        - Jelly
+        - Bomb Kick
+        - Push
+        - Block Pass
+        - 1 Up
+        - Pierce Bomb
+        - Invincible Suit
+        - Glove
+        - Time
+        - Heart
+        - Select Item 
 - Stage 3: Modern Era
-
+    - Areas
+        - Area 3-1
+        - Area 3-2
+        - Area 3-3
+        - Area 3-4
+        - Area 3-5
+        - Area 3-6
+        - Area 3-7
+        - Area 3-8
+    - Traps
+        - Arrow Mark
+        - Alarm Device 
+    - Enemies
+        - G.I. Boy
+        - Gamefurai
+        - Bomb Tank
+        - Skunpew
+        - Haguhagu
+        - Pettan
+        - RIVAL: Lady Bomber
+        - BOSS: Rocketeer Joe 
+    - Items
+        - Bomb Up
+        - Fire
+        - Bomb Kick
+        - Speed Up
+        - Push
+        - 1 Up
+        - Punch
+        - Remote Control
+        - Pierce Bomb
+        - Glove
+        - Hot Dog
+        - Ice Cream
+        - Time
+        - Block Pass
+        - Sushi
+        - Select Item
+        - Heart 
 - Stage 4: Super Future
-
+    
 - Stage 5: Hyperspace 
 
 
