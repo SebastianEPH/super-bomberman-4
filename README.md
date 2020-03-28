@@ -68,28 +68,71 @@
     - Bridge 
 - Enemies
     - Boyoyon Baby
+
         ![Boyoyon Baby](https://vignette.wikia.nocookie.net/bomberman/images/3/3e/BoyoyoBabysprite.PNG/revision/latest?cb=20090912195342)
     - Doronpa
+
+        ![Doronpa](https://vignette.wikia.nocookie.net/bomberman/images/e/e3/Doronpasprite.png/revision/latest?cb=20120228002600)
     - Crazy Balloon
+
+        ![Crazy Balloon](https://vignette.wikia.nocookie.net/bomberman/images/c/c7/CrazyBalloonsprite.png/revision/latest?cb=20120313003946)
     - Bobo
+
+        ![Bobo](https://vignette.wikia.nocookie.net/bomberman/images/4/4b/BoboSB4sprite.png/revision/latest?cb=20120314015053)
     - Esper
+
+        ![Esper](https://vignette.wikia.nocookie.net/bomberman/images/0/09/Espersprite.png/revision/latest?cb=20120302002555)
     - Psycho Man
+
+        ![Psycho Man](https://vignette.wikia.nocookie.net/bomberman/images/a/aa/PsychoMansprite.png/revision/latest?cb=20120229040415)
     - Dancing Clown
+
+        ![Dancing Clow](https://vignette.wikia.nocookie.net/bomberman/images/f/f1/DancingClownsprite.png/revision/latest?cb=20120315005304)
     - G.I. Boy
-    - Gamefurai
+
+        ![G.I. Boy](https://vignette.wikia.nocookie.net/bomberman/images/c/c0/GIBoysprite.png/revision/latest?cb=20120224070414)
+    - Fly Turtle ó Gamefurai
+
+        ![fly Turtle](https://vignette.wikia.nocookie.net/bomberman/images/1/10/FlyTurtlesprite.png/revision/latest?cb=20120311235543)
     - Bomb Tank
+
+        ![Bomb Tank](https://vignette.wikia.nocookie.net/bomberman/images/7/7c/BombTanksprite.png/revision/latest?cb=20120310004922)
     - Skunpew
-    - Haguhagu
+
+        ![Skunpew](https://vignette.wikia.nocookie.net/bomberman/images/4/43/Skunpewspr.png/revision/latest?cb=20120515031840)
+    - Hagehage
+
+        ![Haguhage](https://vignette.wikia.nocookie.net/bomberman/images/f/f4/Hagehagesprite.png/revision/latest?cb=20120309030822)
     - Pettan
+
+        ![Pettan](https://vignette.wikia.nocookie.net/bomberman/images/8/8c/Pettansprite.png/revision/latest?cb=20120225002100)
     - Fire Ninja
+
+        ![Fire Ninja](https://vignette.wikia.nocookie.net/bomberman/images/0/0d/FireNinjasprite.png/revision/latest?cb=20120217210103)
     - Jump Ninja
+
+        ![Fire Ninja](https://vignette.wikia.nocookie.net/bomberman/images/3/3c/JumpNinjasprite.png/revision/latest?cb=20120218005035)
     - Pitch Ninja
+
+        ![Pitch Ninja](https://vignette.wikia.nocookie.net/bomberman/images/9/9a/PitchNinjasprite.png/revision/latest?cb=20120219000722)
     - Missile Man
+
+        ![Missile Man](https://vignette.wikia.nocookie.net/bomberman/images/6/62/MissileMansprite.png/revision/latest?cb=20120515004330)
     - Ponpon
+
+        ![Ponpon](https://vignette.wikia.nocookie.net/bomberman/images/a/a2/Ponponsprite.png/revision/latest?cb=20120307034710)
     - Swim
+
+        ![Swin](https://vignette.wikia.nocookie.net/bomberman/images/6/63/Swimsprite.png/revision/latest?cb=20120308002841)
     - Daruman
+
+        ![Daruman](https://vignette.wikia.nocookie.net/bomberman/images/6/63/Darumansprite.png/revision/latest?cb=20120301011633)
     - Peran
+
+        ![Peran](https://vignette.wikia.nocookie.net/bomberman/images/d/d1/Peransprite.png/revision/latest?cb=20120220035414)
     - Pakkunga
+
+        ![Pakkunga](https://vignette.wikia.nocookie.net/bomberman/images/3/30/Pakkungasprite.png/revision/latest?cb=20120311000845)
     - Triceradops 
 
         ![Triceradops](https://vignette.wikia.nocookie.net/bomberman/images/5/5a/Triceradopssprite.png/revision/latest?cb=20120206015936)
