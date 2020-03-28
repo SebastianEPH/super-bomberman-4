@@ -219,6 +219,7 @@
     - ![Speed Up](https://vignette.wikia.nocookie.net/bomberman/images/c/ca/SB4SpeedUp.png/revision/latest?cb=20120506142851) Speed Up 
     - ![Cake](https://vignette.wikia.nocookie.net/bomberman/images/2/2e/SB4Cake.png/revision/latest?cb=20120506211223) Cake
     - ![Push](https://vignette.wikia.nocookie.net/bomberman/images/c/c5/SB4Push.png/revision/latest?cb=20120506142811) Push  
+---
 # Documentación del Juego 
 
 - Etapa 1: Primeval Era
@@ -411,10 +412,26 @@
 
 ## Citas:
 Información recopilada de varias fuentes
-- [bomberman.fandom.com/](https://bomberman.fandom.com/wiki/Super_Bomberman_4)
+- [bomberman.fandom.com](https://bomberman.fandom.com/wiki/Super_Bomberman_4)
     - Información detallada acerca de cada Etapa
     - Información de enemigos 
-    - Información de 
+    - Información de Stages
+    - Sprites de Items
+- [www.spriters-resource.com](https://www.spriters-resource.com/snes/sbomber4/)
+    - Sprites de Playable Characters
+        - [Bazooka Bomber](https://www.spriters-resource.com/snes/sbomber4/sheet/7925/)
+        - [Bomberman](https://www.spriters-resource.com/snes/sbomber4/sheet/45167/)
+        - [Hammer Bomber](https://www.spriters-resource.com/snes/sbomber4/sheet/7926/)
+        - [Jet Bomber](https://www.spriters-resource.com/snes/sbomber4/sheet/7928/)
+        - [Lady bomber](https://www.spriters-resource.com/snes/sbomber4/sheet/7929/)
+    - Enemigos
+        - [Bosses](https://www.spriters-resource.com/snes/sbomber4/sheet/60497/)
+        - [Normal Enemy Characters](https://www.spriters-resource.com/snes/sbomber4/sheet/60518/)
+        - [Rideable Enemy Characters](https://www.spriters-resource.com/snes/sbomber4/sheet/60560/)
+    - Miscellaneous
+        - [Battle Mode Mugshots](https://www.spriters-resource.com/snes/sbomber4/sheet/88459/)
+        - [Bombs & Explosions](https://www.spriters-resource.com/snes/sbomber4/sheet/59913/)
+        - [Titles](https://www.spriters-resource.com/snes/sbomber4/sheet/60516/)
 
 
 
