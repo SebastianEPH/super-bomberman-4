@@ -1,4 +1,4 @@
-# Super Bomberman 4 - Recreación
+# Super Bomberman 4
 **Éste proyecto se encuentra en desarrollo**
 
 ## Capturas de pantalla del proyecto
@@ -12,6 +12,42 @@
 # Desarrolo: Información detallada del proyecto
 - Se está trabajando en cuadrados de 32x32 pixceles
 - El personaje u otros objetos se trabajan en 64x32 pixceles
+# Stages
+
+- Stage 1: Primeval Era
+    - Traps
+        - Falling Rocks
+        - Wohho Safehouse
+        - Bridge 
+    - Enemies
+        - Triceradops
+        - Little Demon
+        - Caveman Wohho
+        - Dogun Jr.
+        - Angora
+        - RIVAL: Hammer Bomber
+        - BOSS: Dogun 
+    - Areas
+        - Area 1-1
+        - Area 1-2
+        - Area 1-3
+        - Area 1-4
+- Stage 2: Edo Era
+
+- Stage 3: Modern Era
+
+- Stage 4: Super Future
+
+- Stage 5: Hyperspace 
+
+
+## Citas:
+Información recopilada de varias fuentes
+- [bomberman.fandom.com/](https://bomberman.fandom.com/wiki/Super_Bomberman_4)
+    - Información detallada acerca de cada Stage
+    - Información de enemigos 
+    - Información de 
+
 
 
 ## Código fuente:
