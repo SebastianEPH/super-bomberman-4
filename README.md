@@ -1,10 +1,7 @@
 # Super Bomberman 4
-
-![logo Super Bomberman](https://vignette.wikia.nocookie.net/bomberman/images/0/0c/Super_Bomberman_4_Logo.gif/revision/latest/fixed-aspect-ratio-down/width/384/height/384?cb=20120623202820&fill=transparent)
-
-**Éste proyecto se encuentra en desarrollo**
-
-## Capturas de pantalla del proyecto
+---
+## Capturas de pantalla del proyecto 
+__Actualmente en Desarrollo__
 ![Desarrollo - ROOM Modern Era - Game Maker Studio 2](https://i.imgur.com/243nZil.png)
 
 ![Desarrollo - ROOM Modern Era - Game Maker Studio 2](https://i.imgur.com/Jko6q5Q.png)
@@ -12,10 +9,11 @@
 * Alfa - Desarrollo del Nivel Modern Era ,  Pruebas de Bugs *
 
 ![Desarrollo - ROOM Modern Era - Game Maker Studio 2 - Gif](https://i.imgur.com/fD77WJB.gif)
+
+--- 
 # Desarrolo: Información detallada del proyecto
 - Se está trabajando en cuadrados de 32x32 pixceles
 - El personaje u otros objetos se trabajan en 64x32 pixceles
-
 - Etapa 1: Primeval Era
     - Area 1-1
     - Area 1-2
@@ -35,7 +33,7 @@
     - Area 2-7
     - Area 2-8
 - Etapa 3: Modern Era
-    - Area 3-1
+    - Area 3-1  __Proceso de Desarrollo__
     - Area 3-2
     - Area 3-3
     - Area 3-4
@@ -194,7 +192,9 @@
     - __BOSS:__ Bagura Head
 
         ![Bagura Head](https://vignette.wikia.nocookie.net/bomberman/images/d/d9/BaguraHeadsprite.png/revision/latest?cb=20120216005626)
-- __Items__  ![Items](https://vignette.wikia.nocookie.net/bomberman/images/c/c6/Power_Ups.png/revision/latest/scale-to-width-down/300?cb=20110222052314)
+- __Items:__  
+    ![Items](https://vignette.wikia.nocookie.net/bomberman/images/c/c6/Power_Ups.png/revision/latest/scale-to-width-down/300?cb=20110222052314)
+
     - ![RemoteControl](https://vignette.wikia.nocookie.net/bomberman/images/d/d0/SB4RemoteControl.png/revision/latest?cb=20120506142825) Remote Control
     - ![Heart](https://vignette.wikia.nocookie.net/bomberman/images/0/00/SB4Heart.png/revision/latest?cb=20120506142711) Heart
     - ![Power Glove](https://vignette.wikia.nocookie.net/bomberman/images/b/bb/SB4PowerGlove.png/revision/latest?cb=20120506142742) Power Glove
@@ -409,8 +409,8 @@
         - Heart
         - Pierce Bomb
         - Push 
-
-## Citas:
+---
+# Citas:
 Información recopilada de varias fuentes
 - [bomberman.fandom.com](https://bomberman.fandom.com/wiki/Super_Bomberman_4)
     - Información detallada acerca de cada Etapa
@@ -434,10 +434,10 @@ Información recopilada de varias fuentes
         - [Titles](https://www.spriters-resource.com/snes/sbomber4/sheet/60516/)
 
 
-
+--- 
 ## Código fuente:
 Éste proyecto está desarrollado en el IDE GameMakerStudio2 
-![Logo Game Maker](https://10crack.com/wp-content/uploads/2019/12/1920-1.png)
+
 
 *Lo unico que necesitaría para poder editar éste proyecto es ese IDE*
 ## Autor

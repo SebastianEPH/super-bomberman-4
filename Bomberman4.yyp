@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "5d3b76b8-cff7-43fa-9ca2-df8ef46aa486",
+            "Value": {
+                "id": "f31e9a74-089e-4143-b458-8b2a4106d96f",
+                "resourcePath": "views\\5d3b76b8-cff7-43fa-9ca2-df8ef46aa486.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "65b389f8-d9b6-4374-9283-ca1d5cd1b582",
             "Value": {
                 "id": "a84b7804-95a9-42ba-9aea-fa28fd35459a",
@@ -468,6 +476,14 @@
                 "id": "d42b8387-b2d1-49b8-923b-bfc707112644",
                 "resourcePath": "views\\b39fde52-e543-4dba-9585-286517a25146.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bc68ab71-c6e6-449c-b86e-8f210f348df9",
+            "Value": {
+                "id": "4a931e6f-f29d-48e3-9921-7889f1c02c8d",
+                "resourcePath": "sprites\\spr_item_remoteControl\\spr_item_remoteControl.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
