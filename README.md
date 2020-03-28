@@ -416,7 +416,8 @@ Información recopilada de varias fuentes
     - Información detallada acerca de cada Etapa
     - Información de enemigos 
     - Información de Stages
-    - Sprites de Items
+    - Sprites de todos los Items ![Items](https://vignette.wikia.nocookie.net/bomberman/images/c/c6/Power_Ups.png/revision/latest/scale-to-width-down/300?cb=20110222052314)
+
 - [www.spriters-resource.com](https://www.spriters-resource.com/snes/sbomber4/)
     - Sprites de Playable Characters
         - [Bazooka Bomber](https://www.spriters-resource.com/snes/sbomber4/sheet/7925/)
