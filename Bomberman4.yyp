@@ -58,7 +58,7 @@
             "Key": "0850c62e-e2b6-40e8-b9ff-857f2d364de1",
             "Value": {
                 "id": "af20ca1d-f737-42e8-a3fa-5c71e1d1bded",
-                "resourcePath": "objects\\obj_bomba_standard\\obj_bomba_standard.yy",
+                "resourcePath": "objects\\obj_bomb\\obj_bomb.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -74,7 +74,7 @@
             "Key": "09edb330-7e9d-45d0-b8e3-a53fccbe95db",
             "Value": {
                 "id": "fc212cd3-23de-4f25-808d-d1fdd64d1aab",
-                "resourcePath": "objects\\obj_bomba_epina\\obj_bomba_epina.yy",
+                "resourcePath": "objects\\obj_bomb_pierce\\obj_bomb_pierce.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -154,7 +154,7 @@
             "Key": "385d6585-ec2e-444f-88d2-e37ff6c2ca12",
             "Value": {
                 "id": "84fb78de-f4ad-4f74-b0c5-8a137415886d",
-                "resourcePath": "sprites\\spr_bomba\\spr_bomba.yy",
+                "resourcePath": "sprites\\spr_bomb\\spr_bomb.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -202,7 +202,7 @@
             "Key": "470378ba-98f7-4923-a72a-886a2c335fb6",
             "Value": {
                 "id": "a9bbfb25-567f-47fd-9280-33b6c29aca0f",
-                "resourcePath": "sprites\\spr_bomba_tiempo\\spr_bomba_tiempo.yy",
+                "resourcePath": "sprites\\spr_bomRemote\\spr_bomRemote.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "6c556037-5002-48ad-99fb-4127f0a4be55",
+            "Value": {
+                "id": "9f540511-d6f9-45eb-a947-94d819fac0a3",
+                "resourcePath": "sprites\\spr_bomb_\\spr_bomb_.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6fd65615-21cf-40f1-b3c7-8cdb736de0af",
             "Value": {
                 "id": "577df556-ab37-4847-8bd3-2b213a59e1e4",
@@ -402,7 +410,7 @@
             "Key": "91e72e2f-f826-4468-a1a9-7a979f8357d7",
             "Value": {
                 "id": "76a1742d-54db-478b-8503-19723e807f92",
-                "resourcePath": "sprites\\spr_bomba_espina\\spr_bomba_espina.yy",
+                "resourcePath": "sprites\\spr_bombPierce\\spr_bombPierce.yy",
                 "resourceType": "GMSprite"
             }
         },
