@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "3292228d-5195-4a53-928d-3ec798ce5fb2",
+            "Value": {
+                "id": "8cf00161-06a2-440b-9eb1-2869b81157bb",
+                "resourcePath": "sprites\\spr_bombD\\spr_bombD.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "33462be4-5294-43f5-86d9-8536e61898e3",
             "Value": {
                 "id": "641c0f7a-66f3-407f-9454-52861c22c1a4",
