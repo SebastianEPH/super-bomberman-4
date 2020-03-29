@@ -82,7 +82,15 @@
             "Key": "09edb330-7e9d-45d0-b8e3-a53fccbe95db",
             "Value": {
                 "id": "fc212cd3-23de-4f25-808d-d1fdd64d1aab",
-                "resourcePath": "objects\\obj_bomb_pierce\\obj_bomb_pierce.yy",
+                "resourcePath": "objects\\obj_bombPierce\\obj_bombPierce.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0ee7eb26-327a-40a2-9ff6-c3884900eafe",
+            "Value": {
+                "id": "67dff796-c16e-43f6-b8f2-54b1863a1d70",
+                "resourcePath": "objects\\obj_bombH\\obj_bombH.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -196,6 +204,14 @@
                 "id": "02359f27-54c7-4f74-92ff-62396ba99cef",
                 "resourcePath": "options\\ps4\\options_ps4.yy",
                 "resourceType": "GMPS4Options"
+            }
+        },
+        {
+            "Key": "3c0b57b1-240f-48bc-b5a3-4c461edf32c4",
+            "Value": {
+                "id": "b043f4f3-624d-4822-a6f1-873e107e4c2b",
+                "resourcePath": "objects\\obj_bombS\\obj_bombS.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -519,6 +535,14 @@
             }
         },
         {
+            "Key": "b6e1a65f-f7fd-40b5-a7f4-75ff56be5727",
+            "Value": {
+                "id": "12e2d483-3818-4dd3-a7ee-831a245a694a",
+                "resourcePath": "objects\\obj_bombD\\obj_bombD.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bc68ab71-c6e6-449c-b86e-8f210f348df9",
             "Value": {
                 "id": "4a931e6f-f29d-48e3-9921-7889f1c02c8d",
@@ -628,6 +652,14 @@
                 "id": "119691eb-7d11-402c-a2cd-e55d70c95121",
                 "resourcePath": "views\\ebeafdff-5fef-41a8-9b9d-fa3771d93f49.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f342deff-f1c4-436f-adaa-0333a760b302",
+            "Value": {
+                "id": "0634ad9c-8512-4c10-bc30-02f51a3c44ec",
+                "resourcePath": "objects\\obj_bombRemote\\obj_bombRemote.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -5,22 +5,28 @@
 	// Verificar si es el personaje 1 o el personaje 2 
 	
 	switch (global.bombaType1){
-		case 0:		// Create instancia "Bomba - Standard"
-		instance_create_depth(x+16,y+16,-5000,obj_bomb);
+		case 0:		// Create instancia "Bomb"
+			instance_create_depth(x+16,y+16,-5000,obj_bomb);
 		break;
-		case 1:		// Create instancia "Bomba - Pierce"
-		instance_create_depth(x+16,y+16,-5000,obj_bomb_pierce);
+		case 1:		// Create instancia "Bomba Pierce"
+			instance_create_depth(x+16,y+16,-5000,obj_bombPierce);
 		break;
-		case 2:		// Create instancia "Bomba - de Tiempo"
-		instance_create_depth(x+16,y+16,-5000,obj_bomb);
+		case 2:		// Create instancia "Remote Bomb"
+			instance_create_depth(x+16,y+16,-5000,obj_bombRemote);
 		break;
-		case 3:		// Create instancia "Bomba - Z"
-		instance_create_depth(x+16,y+16,-5000,obj_bomb;
+		case 3:		// Create instancia "Bomb - S"
+			instance_create_depth(x+16,y+16,-5000,obj_bombS);
 		break;
-		case 4:		// Create instancia "Bomba - S"
-		instance_create_depth(x+16,y+16,-5000,obj_bomb);
+		case 4:		// Create instancia "Bomb - H"
+			instance_create_depth(x+16,y+16,-5000,obj_bombH);
 		break;
+		case 5:		// Create instancia "Bomb - D"
+			instance_create_depth(x+16,y+16,-5000,obj_bombD);
+		break;
+		default : 
+			instance_create_depth(x+16,y+16,-5000,obj_bomb);
 	}
+	
 	
 
 		// Conteo

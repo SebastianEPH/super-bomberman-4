@@ -1,8 +1,8 @@
 {
-    "id": "09edb330-7e9d-45d0-b8e3-a53fccbe95db",
+    "id": "3c0b57b1-240f-48bc-b5a3-4c461edf32c4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_bomb_pierce",
+    "name": "obj_bombS",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "91e72e2f-f826-4468-a1a9-7a979f8357d7",
+    "spriteId": "6c556037-5002-48ad-99fb-4127f0a4be55",
     "visible": true
 }
