@@ -2,7 +2,7 @@
     "id": "93c4b683-8ea5-4639-b0e8-e303c6a1b4bc",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_item_repe",
+    "name": "spr_item_crepe",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -1,8 +1,7 @@
 /// @description Colision Player
 // Solo jugador 1 
 
-	// Suma la cantidad de bombas
-	
+// Aumentar la capacidad de bombas
 	if (global.item_bombUp  <= 12){
 		// Solo si la cantidad de bomba no supera los 12, 
 		//puede aumentar la cantidad de bombas
