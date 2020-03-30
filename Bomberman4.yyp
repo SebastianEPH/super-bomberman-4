@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "1155f426-e73c-4ff5-8b4b-cca57de63cc0",
+            "Value": {
+                "id": "daabea5e-7793-4177-90d1-a1b86158434b",
+                "resourcePath": "views\\1155f426-e73c-4ff5-8b4b-cca57de63cc0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1d5d3d3c-6cf5-4ef4-8f72-1dd3070d08e5",
             "Value": {
                 "id": "aa09a6e9-5248-4d00-bf65-0753c77e8609",
@@ -391,6 +399,14 @@
             }
         },
         {
+            "Key": "7f6d74a0-0bf0-4338-b357-af2bb4fc098b",
+            "Value": {
+                "id": "b69c18e6-8516-4005-9931-47a67ef14011",
+                "resourcePath": "scripts\\script4\\script4.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "81ddfc81-2876-4155-8f93-36eddc38ea65",
             "Value": {
                 "id": "d3860d1c-2be0-4638-b838-7cfc5e397f8c",
@@ -583,6 +599,14 @@
             }
         },
         {
+            "Key": "cef75d26-082a-48cf-b9d5-1b0e39093a81",
+            "Value": {
+                "id": "1e191b2a-661b-4e07-b0aa-31defc4bb113",
+                "resourcePath": "objects\\obj_itemBombaRemote\\obj_itemBombaRemote.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "da0f63c3-1feb-49a3-bd72-597070c52b55",
             "Value": {
                 "id": "6f2ef78a-c9b3-426c-9546-271980b26177",
@@ -707,7 +731,8 @@
         "4be265a8-f85b-45ee-b19d-1ec1841800d0",
         "65b389f8-d9b6-4374-9283-ca1d5cd1b582",
         "7643cc80-8b4b-4581-a686-34888ffa6398",
-        "b1c9bdef-6a76-4c5e-8ef6-54b5d1175213"
+        "b1c9bdef-6a76-4c5e-8ef6-54b5d1175213",
+        "7f6d74a0-0bf0-4338-b357-af2bb4fc098b"
     ],
     "tutorial": ""
 }

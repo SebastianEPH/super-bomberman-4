@@ -1,8 +1,7 @@
 // Script que creará la bomba, en la cordenada X y Y donde se encuentra el objeto que llame a al función		
 		
-BombType = argument[1];
-		
-		
+
+
 		
 	// Verifica Tipo de Bomba 
 	// Obtener argumentos  ( según esa variable , se sabrá si es el personaje 1 o el personaje 2)
@@ -32,7 +31,6 @@ BombType = argument[1];
 	}
 	
 	
-
 		// Conteo
 		
 		
