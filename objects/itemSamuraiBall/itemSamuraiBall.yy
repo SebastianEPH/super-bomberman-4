@@ -1,18 +1,18 @@
 {
-    "id": "cc6a5996-23f8-43f6-a223-36364431d04d",
+    "id": "cf63774c-af12-4780-9510-4fc8f3ef9001",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "itemPush",
+    "name": "itemSamuraiBall",
     "eventList": [
         {
-            "id": "c61b68c1-37a9-4356-bcee-c71db98679ef",
+            "id": "1a5e7ab2-96b7-4327-b188-aec722670983",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "db17198c-8947-4674-929a-2825dd7e9840",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "cc6a5996-23f8-43f6-a223-36364431d04d"
+            "m_owner": "cf63774c-af12-4780-9510-4fc8f3ef9001"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a1d18aef-3ed2-48bb-a6ff-e75efa305808",
+    "spriteId": "fc10b0de-cc48-428a-b4a5-fe479010a311",
     "visible": true
 }

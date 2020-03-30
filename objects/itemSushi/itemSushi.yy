@@ -1,18 +1,18 @@
 {
-    "id": "cc6a5996-23f8-43f6-a223-36364431d04d",
+    "id": "32826268-be48-49dc-b6f3-a0b080387077",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "itemPush",
+    "name": "itemSushi",
     "eventList": [
         {
-            "id": "c61b68c1-37a9-4356-bcee-c71db98679ef",
+            "id": "7376dd63-b7e8-45be-8701-322ec84f29a6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "db17198c-8947-4674-929a-2825dd7e9840",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "cc6a5996-23f8-43f6-a223-36364431d04d"
+            "m_owner": "32826268-be48-49dc-b6f3-a0b080387077"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a1d18aef-3ed2-48bb-a6ff-e75efa305808",
+    "spriteId": "36f12658-26dd-429b-a5b2-13d6d478570d",
     "visible": true
 }
