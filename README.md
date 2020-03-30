@@ -204,7 +204,7 @@ __Actualmente en Desarrollo__
     - ![Bomb Kick](https://vignette.wikia.nocookie.net/bomberman/images/d/d7/SB4BombKick.png/revision/latest?cb=20120506142602) Bomb Kick
     - ![Invincible Suit](https://vignette.wikia.nocookie.net/bomberman/images/c/ca/SB4Vest.png/revision/latest?cb=20120506142918) Invincible Suit
     - ![Samurai Ball](https://vignette.wikia.nocookie.net/bomberman/images/f/f9/SB4SamuraiBall.png/revision/latest?cb=20120506222829) Samurai Ball
-    - ![Jelly](https://vignette.wikia.nocookie.net/bomberman/images/a/a0/SB4Jelly.png/revision/latest?cb=20120506223153)Jelly 
+    - ![Jelly](https://vignette.wikia.nocookie.net/bomberman/images/a/a0/SB4Jelly.png/revision/latest?cb=20120506223153) Jelly 
     - ![Fire](https://vignette.wikia.nocookie.net/bomberman/images/1/17/SB4Fire.png/revision/latest?cb=20120506142642) Fire 
     - ![Hot Dog](https://vignette.wikia.nocookie.net/bomberman/images/a/ad/SB4HotDog.png) Hot Dog
     - ![Ice Cream](https://vignette.wikia.nocookie.net/bomberman/images/c/ca/SB4IceCream.png/revision/latest?cb=20120507012924) Ice Cream
@@ -441,5 +441,10 @@ Información recopilada de varias fuentes
 
 
 *Lo unico que necesitaría para poder editar éste proyecto es ese IDE*
-## Autor
- By SebastianEPH
+<!-- Creador  -->
+---
+## By SebastianEPH
+- [Github](https://github.com/SebastianEPH)
+- [Facebook](https://www.facebook.com/SebastianEPH)
+- [Linkedin](https://www.linkedin.com/in/sebastianeph/)
+---

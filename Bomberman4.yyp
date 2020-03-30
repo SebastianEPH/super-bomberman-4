@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "04f616c8-0300-4213-9b98-3eb6150dd410",
+            "Value": {
+                "id": "8e2d5647-f3f3-466e-b66f-05be80bb1ed7",
+                "resourcePath": "views\\04f616c8-0300-4213-9b98-3eb6150dd410.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "05ce5c08-b64a-464f-b1aa-7b05544b172a",
             "Value": {
                 "id": "096251b1-e3f7-4577-8fcc-0c3e17d0825b",
@@ -303,14 +311,6 @@
             }
         },
         {
-            "Key": "590b9f98-8ac7-464c-9fdd-4d1363d31ae9",
-            "Value": {
-                "id": "da270953-ef1d-4427-ad80-e1d637ac7693",
-                "resourcePath": "objects\\obj_alarm\\obj_alarm.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "59abec3b-5fb1-48bb-ad10-e805acbbf57a",
             "Value": {
                 "id": "5e9f9b77-403a-42a1-a3eb-3cbd635e6d70",
@@ -348,22 +348,6 @@
                 "id": "9f540511-d6f9-45eb-a947-94d819fac0a3",
                 "resourcePath": "sprites\\spr_bombS\\spr_bombS.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6fd65615-21cf-40f1-b3c7-8cdb736de0af",
-            "Value": {
-                "id": "577df556-ab37-4847-8bd3-2b213a59e1e4",
-                "resourcePath": "objects\\obj_alarma_roja\\obj_alarma_roja.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "745e503c-5e44-4e44-a613-ca0da95b9445",
-            "Value": {
-                "id": "24c6c935-735e-4739-887e-241e5a8cb498",
-                "resourcePath": "scripts\\Variables_Globales\\Variables_Globales.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -524,6 +508,14 @@
                 "id": "418e4ffe-d577-459e-862f-4bc44adbfc2f",
                 "resourcePath": "sprites\\sprite101\\sprite101.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b1c9bdef-6a76-4c5e-8ef6-54b5d1175213",
+            "Value": {
+                "id": "fe775fa9-3960-463d-9394-876884c919b8",
+                "resourcePath": "scripts\\BombExplosion\\BombExplosion.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -713,9 +705,9 @@
     ],
     "script_order": [
         "4be265a8-f85b-45ee-b19d-1ec1841800d0",
-        "745e503c-5e44-4e44-a613-ca0da95b9445",
         "65b389f8-d9b6-4374-9283-ca1d5cd1b582",
-        "7643cc80-8b4b-4581-a686-34888ffa6398"
+        "7643cc80-8b4b-4581-a686-34888ffa6398",
+        "b1c9bdef-6a76-4c5e-8ef6-54b5d1175213"
     ],
     "tutorial": ""
 }

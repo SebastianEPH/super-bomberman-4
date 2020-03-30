@@ -3,5 +3,5 @@
 // Destruir instancia
 	instance_destroy();
 
-
-// Generar animación de destrucción
+// Llamar función para explorar 
+// enviar x y y a la función
