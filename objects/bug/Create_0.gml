@@ -12,6 +12,7 @@ speed = 0
 	global.item_1up = 1;				// Item Vidas extra
 	global.item_crepe = 0;				// Item Tipo comida
 	global.item_cake = false;			// Item Comida
+	global.item_bombStandard = true;	// Bomba normal
 	global.item_pierceBomb = false;	// Item bomba espina	// si es true, bombaStandard debe deshabilitarse
 	global.item_bombUp = 1;			// Item Cantidad de bombas	// Checar cual puede ser el limite
 	global.item_bombRemote = false;	// item Bomba de tiempo o con control remoto

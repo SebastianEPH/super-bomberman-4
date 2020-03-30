@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0a6516bb-77c2-496a-af19-9b79d2e8d860",
+            "Value": {
+                "id": "5b41e4d6-4ba4-4b76-9dfe-f89eb58267ad",
+                "resourcePath": "objects\\itemPowerGlove\\itemPowerGlove.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ee7eb26-327a-40a2-9ff6-c3884900eafe",
             "Value": {
                 "id": "67dff796-c16e-43f6-b8f2-54b1863a1d70",
@@ -602,7 +610,15 @@
             "Key": "cef75d26-082a-48cf-b9d5-1b0e39093a81",
             "Value": {
                 "id": "1e191b2a-661b-4e07-b0aa-31defc4bb113",
-                "resourcePath": "objects\\obj_itemBombaRemote\\obj_itemBombaRemote.yy",
+                "resourcePath": "objects\\itemBombaRemote\\itemBombaRemote.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d0b890b8-d0a0-411f-9da0-532f57a194a7",
+            "Value": {
+                "id": "8d7d0fe4-44de-4eb4-a61e-cd7cb3e59276",
+                "resourcePath": "objects\\itemHeart\\itemHeart.yy",
                 "resourceType": "GMObject"
             }
         },
