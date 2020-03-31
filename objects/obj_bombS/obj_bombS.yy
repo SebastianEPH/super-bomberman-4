@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_bombS",
     "eventList": [
-        
+        {
+            "id": "2f0e17b1-461d-4fac-960d-ce57ec54e9ec",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "3c0b57b1-240f-48bc-b5a3-4c461edf32c4"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

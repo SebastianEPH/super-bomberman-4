@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_bombRemote",
     "eventList": [
-        
+        {
+            "id": "1cce722d-1cea-4c02-8759-1ee092ddedc8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "f342deff-f1c4-436f-adaa-0333a760b302"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

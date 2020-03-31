@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "19dd17e4-f45c-443e-a322-ea5c423737b4",
+            "Value": {
+                "id": "0396989e-6368-4293-88fb-9de26db213c0",
+                "resourcePath": "sprites\\spr_BombExplosionCentro\\spr_BombExplosionCentro.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1d5d3d3c-6cf5-4ef4-8f72-1dd3070d08e5",
             "Value": {
                 "id": "aa09a6e9-5248-4d00-bf65-0753c77e8609",
@@ -187,6 +195,22 @@
             "Value": {
                 "id": "ee9729d3-671b-47fe-9bc3-48dfdd937616",
                 "resourcePath": "views\\26e12ea0-5644-4775-9227-ab080832e947.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2749ae75-362c-44d2-8f16-ef285c8e741e",
+            "Value": {
+                "id": "ea08a955-3454-44e3-bb6d-dc620f9f3274",
+                "resourcePath": "sprites\\spr_BombExplosionCentro11\\spr_BombExplosionCentro11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2deb1ecc-a5ae-4e12-b7a1-146093e344ed",
+            "Value": {
+                "id": "3bfe7046-8290-4e5b-a543-40a65ee6c584",
+                "resourcePath": "views\\2deb1ecc-a5ae-4e12-b7a1-146093e344ed.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -623,6 +647,14 @@
             }
         },
         {
+            "Key": "9e63d8b8-71e6-4cff-9943-fe49ca3d9c92",
+            "Value": {
+                "id": "75aa3352-b9a4-4096-84d8-fa00ec0a99ca",
+                "resourcePath": "sprites\\spr_BombExplosionCentro1\\spr_BombExplosionCentro1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ec5cb62-89ea-43c1-a04c-d5fc981cf973",
             "Value": {
                 "id": "2c789ced-81fc-49c4-9319-6336a23f53b5",
@@ -636,6 +668,14 @@
                 "id": "29b54bc9-d92b-4042-83f2-7d22e6475920",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a196b805-7202-4127-b53c-648d72ae1899",
+            "Value": {
+                "id": "990184a9-1532-4817-b2c9-27fa56be9ecc",
+                "resourcePath": "sprites\\spr_BombExplosionCentro11112\\spr_BombExplosionCentro11112.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -711,6 +751,14 @@
             }
         },
         {
+            "Key": "b2de3242-9492-466d-a507-076b8126081b",
+            "Value": {
+                "id": "71c76925-9caf-49c2-9b08-0fcf511ce39e",
+                "resourcePath": "sprites\\spr_BombExplosionCentro1111\\spr_BombExplosionCentro1111.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b39fde52-e543-4dba-9585-286517a25146",
             "Value": {
                 "id": "d42b8387-b2d1-49b8-923b-bfc707112644",
@@ -747,6 +795,14 @@
             "Value": {
                 "id": "01fc675f-2bc0-4b38-a86b-4a49871ffb83",
                 "resourcePath": "sprites\\spr_item_heart\\spr_item_heart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c0f5b29a-d1b3-45cd-9075-3661e300dedd",
+            "Value": {
+                "id": "04e8c78d-6405-4b9a-90e9-f520ffd99216",
+                "resourcePath": "sprites\\spr_BombExplosionCentro111\\spr_BombExplosionCentro111.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -967,6 +1023,14 @@
             }
         },
         {
+            "Key": "eeea2790-8ce4-4410-bf9d-a43a23828bad",
+            "Value": {
+                "id": "e608816d-7558-4206-8f1e-c4098ef97dda",
+                "resourcePath": "sprites\\spr_BombExplosionCentro11111\\spr_BombExplosionCentro11111.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f342deff-f1c4-436f-adaa-0333a760b302",
             "Value": {
                 "id": "0634ad9c-8512-4c10-bc30-02f51a3c44ec",
@@ -1048,10 +1112,10 @@
         }
     ],
     "script_order": [
-        "4be265a8-f85b-45ee-b19d-1ec1841800d0",
         "65b389f8-d9b6-4374-9283-ca1d5cd1b582",
         "7643cc80-8b4b-4581-a686-34888ffa6398",
         "b1c9bdef-6a76-4c5e-8ef6-54b5d1175213",
+        "4be265a8-f85b-45ee-b19d-1ec1841800d0",
         "7f6d74a0-0bf0-4338-b357-af2bb4fc098b"
     ],
     "tutorial": ""
