@@ -32,4 +32,15 @@ var y1 = y-16;
 		
 	//	x = x - 32
 	//}
-instance_create_layer(x1,y1,"ins_personaje_objetos",obj_exp);
+	
+
+// Crea instancias a la izquierda
+ for (var i = 0; i < global.item_fire; i++){
+	
+    instance_create_layer(x1,y1,"ins_personaje_objetos",obj_exp);
+	x1 = x1 -32
+	
+}
+
+
+
