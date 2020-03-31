@@ -3,7 +3,7 @@
 
 // obj - Item IceCream
 
-		global.item_iceCream;
+		global.item_iceCream = true;
 	
 
 

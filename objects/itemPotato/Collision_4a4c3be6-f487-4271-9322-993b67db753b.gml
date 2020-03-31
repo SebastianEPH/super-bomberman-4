@@ -3,7 +3,7 @@
 
 // obj - Item Potato
 
-		global.item_potato;
+		global.item_potato = true;
 
 
 

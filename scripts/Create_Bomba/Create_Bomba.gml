@@ -7,7 +7,7 @@
 	// Obtener argumentos  ( según esa variable , se sabrá si es el personaje 1 o el personaje 2)
 	// Verificar si es el personaje 1 o el personaje 2 
 	
-	switch (BombType){
+	switch (global.typeBomb){
 		case 0:		// Create instancia "Bomb"
 			instance_create_depth(x+16,y+16,-5000,obj_bomb);
 		break;

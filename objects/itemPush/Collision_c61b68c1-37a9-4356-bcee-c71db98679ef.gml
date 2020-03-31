@@ -3,7 +3,7 @@
 
 // AObj - Item Push
 
-		global.item_push;
+		global.item_push = true;
 	
 
 
