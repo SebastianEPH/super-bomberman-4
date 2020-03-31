@@ -1,6 +1,7 @@
 /// @description Conteo Destrucción
 
 // Destruir instancia
+	BombExplosion();
 	instance_destroy();
 
 // Llamar función para explorar 

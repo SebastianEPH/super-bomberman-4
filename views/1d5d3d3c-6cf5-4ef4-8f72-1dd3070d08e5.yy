@@ -9,7 +9,8 @@
         "f342deff-f1c4-436f-adaa-0333a760b302",
         "3c0b57b1-240f-48bc-b5a3-4c461edf32c4",
         "0ee7eb26-327a-40a2-9ff6-c3884900eafe",
-        "b6e1a65f-f7fd-40b5-a7f4-75ff56be5727"
+        "b6e1a65f-f7fd-40b5-a7f4-75ff56be5727",
+        "2204d06e-0db1-4840-8b46-7ecf0014b73e"
     ],
     "filterType": "GMObject",
     "folderName": "bombas",
