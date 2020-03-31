@@ -10,6 +10,12 @@ __Actualmente en Desarrollo__
 
 ![Desarrollo - ROOM Modern Era - Game Maker Studio 2 - Gif](https://i.imgur.com/fD77WJB.gif)
 
+## Sprite Names - Desarrollo
+- Name Items Sprites
+
+    ![sprite](https://i.imgur.com/9zNzmrG.png)
+- Name Villanos...
+
 --- 
 # Desarrolo: Información detallada del proyecto
 - Se está trabajando en cuadrados de 32x32 pixceles

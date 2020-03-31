@@ -2,7 +2,7 @@
     "id": "bc68ab71-c6e6-449c-b86e-8f210f348df9",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_item_remoteControl",
+    "name": "spr_item_bombRemote",
     "For3D": false,
     "HTile": false,
     "VTile": false,
