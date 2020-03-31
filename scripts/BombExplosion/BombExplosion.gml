@@ -5,41 +5,40 @@
 var x1 = x-16;
 var y1 = y-16;
 
+var xiz	= x1;
+var yiz = y1;
+var xde = x1;
+var yde = y1;
+var xup = x1;
+var yup = y1;
+var xdo = x1;
+var ydo = y1;
 
-
-// Crear Izquierda
-	
-	
-//// Crear Derecha
-//	instance_create_layer(x-32,y,obj_exp,obj_exp);
-	
-//// Crear Arriba
-//	instance_create_layer(x,y-32,obj_exp,obj_exp);
-	
-//// Crear Abajo
-//	instance_create_layer(x,y-32,obj_exp,obj_exp);
-	
-// Crear expl , hasta que colisione con la pared
-	// Crear Objetos hasta que variable global sea menor a 12
-	
-// Repetir variable global 
-	//for (i = 0;i == 4;i++){
-		
-	//	// Si colision dejas de crear - Izquierda
-	//	//if (global){
-	//		instance_create_layer(x1,y1,"ins_personaje_objetos",obj_exp);
-	//	//}
-		
-	//	x = x - 32
-	//}
-	
+// Crea explosión Centro
+//instance_create_layer(xiz,yiz,"ins_personaje_objetos",obj_exp)
 
 // Crea instancias a la izquierda
- for (var i = 0; i < global.item_fire; i++){
-	
-    instance_create_layer(x1,y1,"ins_personaje_objetos",obj_exp);
-	x1 = x1 -32
-	
+for (var i = 0; i <= 4; i += 1){
+		
+		// Crear Explosión Izquierda
+		instance_create_layer(xiz,yiz,"Bomb",obj_exp);
+		xiz = xiz - 32;
+		
+		// Crear Explosión Derecha
+		instance_create_layer(xde,yde,"Bomb",obj_exp);
+		yde = yde +32;
+		
+		// Crear Explosión Abajo
+		instance_create_layer(xdo,ydo,"Bomb",obj_exp);
+		ydo = ydo +32;
+		
+		// Crear Explosión Arriba
+		instance_create_layer(xup,yup,"Bomb",obj_exp);
+		yup = yup -32;
+		
+		
+		
+		
 }
 
 
