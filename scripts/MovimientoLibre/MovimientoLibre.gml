@@ -30,6 +30,21 @@
 		if (keyboard_check(vk_down) || keyboard_check(vk_up) || keyboard_check(vk_left) ||keyboard_check(vk_right) ){
 			speed = velocidad;
 		}else{
+			
+			
+			
+			with (bug){
+			    if !place_snapped(32, 32){
+			        move_snap(16,16);
+			    }
+			 }	
+			
+			
+			
+			
+			
+			
+			
 			speed = 0
 		}
 		
