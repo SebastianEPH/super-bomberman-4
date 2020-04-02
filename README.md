@@ -1,25 +1,33 @@
 # Super Bomberman 4
 ---
-## Capturas de pantalla del proyecto 
-__Actualmente en Desarrollo__
-![Desarrollo - ROOM Modern Era - Game Maker Studio 2](https://i.imgur.com/243nZil.png)
-
-![Desarrollo - ROOM Modern Era - Game Maker Studio 2](https://i.imgur.com/Jko6q5Q.png)
-
-
-
----
-## Funcionalidades en desarrollo `02/04/2020`
+## Proceso del desarrollo `02/04/2020`
 * Player principal 
-    * Movimiento de 8x8 , Cuadriculas de 32x32 `Terminado 100%`
+    * Movimiento de 8x8 , Cuadriculas de 32x32 `100%`
+    * Sprites y animación  `10%`
 * Bomb 
-    * Bomb standard `Terminado 90%`
-    * Bomb Pierce Bomb `Terminado 60%`
-    * Bomb S `Terminado 60%`
-    * Bomb H `Terminado 60%`
-    * Bomb D `Terminado 60%`
+    * Creación de Bomba `80%`
+    * Effects
+        * Explosión 
+            * Script `90%`
+            * Sprites ` 0%`
+    * Tipo de Bomba:
+        * Bomb standard
+            * Script `90%`
+            * Sprites `100%`
+        * Pierce Bomb
+            * Script `90%`
+            * Sprites `100%`
+        * Bomb S 
+            * Script `90%`
+            * Sprites `100%`
+        * Bomb H 
+             * Script `90%`
+            * Sprites `100%`
+        * Bomb D 
+            * Script `90%`
+            * Sprites `100%`
 * Items
-    - ![RemoteControl](https://vignette.wikia.nocookie.net/bomberman/images/d/d0/SB4RemoteControl.png/revision/latest?cb=20120506142825) Remote Control `Terminado 100%`
+    - ![RemoteControl](https://vignette.wikia.nocookie.net/bomberman/images/d/d0/SB4RemoteControl.png/revision/latest?cb=20120506142825) Remote Control `Terminado 50%`
     - ![Heart](https://vignette.wikia.nocookie.net/bomberman/images/0/00/SB4Heart.png/revision/latest?cb=20120506142711) Heart `Terminado 50%`
     - ![Power Glove](https://vignette.wikia.nocookie.net/bomberman/images/b/bb/SB4PowerGlove.png/revision/latest?cb=20120506142742) Power Glove `Terminado 50%`
     - ![Punch](https://vignette.wikia.nocookie.net/bomberman/images/c/c1/SB4Punch.png/revision/latest?cb=20120506142751) Punch `Terminado 50%`
@@ -43,17 +51,14 @@ __Actualmente en Desarrollo__
     - ![Speed Up](https://vignette.wikia.nocookie.net/bomberman/images/c/ca/SB4SpeedUp.png/revision/latest?cb=20120506142851) Speed Up `Terminado 50%`
     - ![Cake](https://vignette.wikia.nocookie.net/bomberman/images/2/2e/SB4Cake.png/revision/latest?cb=20120506211223) Cake `Terminado 50%`
     - ![Push](https://vignette.wikia.nocookie.net/bomberman/images/c/c5/SB4Push.png/revision/latest?cb=20120506142811) Push  `Terminado 50%`
-* Stages 
-    * Moder Era 
-        * Área 3.1 `Terminado 95%` 
-            * ![Desarrollo - ROOM Modern Era - Game Maker Studio 2 - Gif](https://i.imgur.com/fD77WJB.gif)
-*
-*
-## Sprite Names - Desarrollo
-- Name Items Sprites
 
     ![sprite](https://i.imgur.com/9zNzmrG.png)
 - Name Villanos...
+* Stages 
+    * Moder Era 
+        * Área 3.1 `Terminado 95%` 
+            * ![Desarrollo - ROOM Modern Era - Game Maker Studio 2](https://i.imgur.com/Jko6q5Q.png)
+            * ![Desarrollo - ROOM Modern Era - Game Maker Studio 2 - Gif](https://i.imgur.com/fD77WJB.gif)
 
 --- 
 # Desarrolo: Información detallada del proyecto
