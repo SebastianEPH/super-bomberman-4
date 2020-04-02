@@ -2,8 +2,8 @@
 //x = argument[1];	//Position X
 //y = argument[2];	//Position Y
 
-var x1 = x-16;
-var y1 = y-16;
+var x1 = x;
+var y1 = y;
 
 var xiz	= x1-32;
 var yiz = y1;

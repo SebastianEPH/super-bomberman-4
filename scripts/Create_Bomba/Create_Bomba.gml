@@ -1,8 +1,6 @@
 // Script que creará la bomba, en la cordenada X y Y donde se encuentra el objeto que llame a al función		
-x1 = x+16;
+x1 = x;
 y1 = y+16;
-
-
 		
 	// Verifica Tipo de Bomba 
 	// Obtener argumentos  ( según esa variable , se sabrá si es el personaje 1 o el personaje 2)
@@ -32,9 +30,9 @@ y1 = y+16;
 	}
 	
 	// Orientar a la bomba en cuadros de 32 x 32
+	
 	with (bomb){
-	    if !place_snapped(32, 32)
-	        {
+	    if !place_snapped(32, 32){
 	        move_snap(32, 32);
 	        }
 	 }	
