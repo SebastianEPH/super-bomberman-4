@@ -30,10 +30,30 @@
 		}
 	}
 	if (argument[0] = 2){	// Abajo
-		
-
+		if keyboard_check_pressed(vk_right) {
+			direction = 0;
+			speed = velocidad;
+		}
+		if keyboard_check_pressed(vk_left) {
+			direction = 180;
+			speed = velocidad;
+		}
+		if keyboard_check_pressed(vk_up) {
+			direction = 90;
+			speed = velocidad;
+		}
 	}
 	if (argument[0] = 8){	// Arriba
-		
-
+		if keyboard_check_pressed(vk_right) {
+			direction = 0;
+			speed = velocidad;
+		}
+		if keyboard_check_pressed(vk_left) {
+			direction = 180;
+			speed = velocidad;
+		}
+		if keyboard_check_pressed(vk_down){
+			direction = 270;
+			speed = velocidad;
+		}
 	}

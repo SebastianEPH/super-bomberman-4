@@ -20,7 +20,19 @@
 		speed = velocidad;
 		SubMovimiento(2);
 	}
-			
-	if keyboard_check_released(vk_down) || keyboard_check_released(vk_up) || keyboard_check_released(vk_left) ||keyboard_check_released(vk_right) {
-		speed = 0
+	
+	
+	
+	if (keyboard_check_released(vk_down) || keyboard_check_released(vk_up) || keyboard_check_released(vk_left) ||keyboard_check_released(vk_right) ){
+		
+		// Verificar si alguna tecla se está presionando 
+		// Ésto causa de que el movimiento del personaje sea mucho más ligera 
+		if (keyboard_check_pressed(vk_down) || keyboard_check_pressed(vk_up) || keyboard_check_pressed(vk_left) ||keyboard_check_pressed(vk_right) ){
+			speed = velocidad;
+		}else{
+			speed = 0
+		}
+		
 	}
+	
+	
