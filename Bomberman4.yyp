@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "1184a945-0b68-4ccd-b78d-a8154d99ca62",
+            "Value": {
+                "id": "b4476c12-2924-4213-80e1-0e5841bc0746",
+                "resourcePath": "views\\1184a945-0b68-4ccd-b78d-a8154d99ca62.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "13ff0194-e6bf-47b3-8a25-710ec72e3e80",
             "Value": {
                 "id": "16582466-ebb9-4a1e-bbc3-1103163588c9",
@@ -511,6 +519,14 @@
             }
         },
         {
+            "Key": "6b4c182e-f03b-4e91-81f3-b899bd2b1f34",
+            "Value": {
+                "id": "fa0ba801-157c-4339-b676-db0047e46c78",
+                "resourcePath": "scripts\\SubMovimiento\\SubMovimiento.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6c556037-5002-48ad-99fb-4127f0a4be55",
             "Value": {
                 "id": "9f540511-d6f9-45eb-a947-94d819fac0a3",
@@ -578,7 +594,7 @@
             "Key": "7f6d74a0-0bf0-4338-b357-af2bb4fc098b",
             "Value": {
                 "id": "b69c18e6-8516-4005-9931-47a67ef14011",
-                "resourcePath": "scripts\\script4\\script4.yy",
+                "resourcePath": "scripts\\MovimientoLibre\\MovimientoLibre.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -1124,7 +1140,8 @@
         "7643cc80-8b4b-4581-a686-34888ffa6398",
         "b1c9bdef-6a76-4c5e-8ef6-54b5d1175213",
         "4be265a8-f85b-45ee-b19d-1ec1841800d0",
-        "7f6d74a0-0bf0-4338-b357-af2bb4fc098b"
+        "7f6d74a0-0bf0-4338-b357-af2bb4fc098b",
+        "6b4c182e-f03b-4e91-81f3-b899bd2b1f34"
     ],
     "tutorial": ""
 }

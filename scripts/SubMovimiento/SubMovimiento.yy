@@ -1,8 +1,8 @@
 {
-    "id": "7f6d74a0-0bf0-4338-b357-af2bb4fc098b",
+    "id": "6b4c182e-f03b-4e91-81f3-b899bd2b1f34",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "script4",
+    "name": "SubMovimiento",
     "IsCompatibility": false,
     "IsDnD": false
 }
