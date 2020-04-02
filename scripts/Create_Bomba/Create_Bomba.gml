@@ -1,5 +1,6 @@
 // Script que creará la bomba, en la cordenada X y Y donde se encuentra el objeto que llame a al función		
-		
+x1 = x+16;
+y1 = y+16;
 
 
 		
@@ -9,29 +10,35 @@
 	
 	switch (global.typeBomb){
 		case 0:		// Create instancia "Bomb"
-			instance_create_depth(x+16,y+16,-5000,obj_bomb);
+			var bomb = instance_create_depth(x1,y1,"bomb",obj_bomb);
 		break;
 		case 1:		// Create instancia "Bomba Pierce"
-			instance_create_depth(x+16,y+16,-5000,obj_bombPierce);
+			var bomb = instance_create_depth(x+16,y+16,"bomb",obj_bombPierce);
 		break;
 		case 2:		// Create instancia "Remote Bomb"
-			instance_create_depth(x+16,y+16,-5000,obj_bombRemote);
+			var bomb = instance_create_depth(x+16,y+16,"bomb",obj_bombRemote);
 		break;
 		case 3:		// Create instancia "Bomb - S"
-			instance_create_depth(x+16,y+16,-5000,obj_bombS);
+			var bomb = instance_create_depth(x+16,y+16,"bomb",obj_bombS);
 		break;
 		case 4:		// Create instancia "Bomb - H"
-			instance_create_depth(x+16,y+16,-5000,obj_bombH);
+			var bomb = instance_create_depth(x+16,y+16,"bomb",obj_bombH);
 		break;
 		case 5:		// Create instancia "Bomb - D"
-			instance_create_depth(x+16,y+16,-5000,obj_bombD);
+			var bomb = instance_create_depth(x+16,y+16,"bomb",obj_bombD);
 		break;
 		default : 
-			instance_create_depth(x+16,y+16,-5000,obj_bomb);
+			var bomb = instance_create_depth(x+16,y+16,"bomb",obj_bomb);
 	}
 	
-	
-		// Conteo
+	// Orientar a la bomba en cuadros de 32 x 32
+	with (bomb){
+	    if !place_snapped(32, 32)
+	        {
+	        move_snap(32, 32);
+	        }
+	 }	
+		
 		
 		
 		// Destruir luego de 5 segundos

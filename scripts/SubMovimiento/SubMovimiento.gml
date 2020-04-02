@@ -55,5 +55,5 @@
 		if keyboard_check(vk_down){
 			direction = 270;
 			speed = velocidad;
-		}
+		} 
 	}
