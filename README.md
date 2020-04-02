@@ -14,6 +14,9 @@
         * Bomb standard
             * Script `90%`
             * Sprites `100%`
+        * Bomb Remote
+            * Script `40%`
+            * Sprites `100%`
         * Pierce Bomb
             * Script `90%`
             * Sprites `100%`
@@ -61,7 +64,7 @@
             * ![Desarrollo - ROOM Modern Era - Game Maker Studio 2 - Gif](https://i.imgur.com/fD77WJB.gif)
 
 --- 
-# Desarrolo: Información detallada del proyecto
+# Desarrollo: Información detallada del proyecto
 - Se está trabajando en cuadrados de 32x32 pixceles
 - El personaje u otros objetos se trabajan en 64x32 pixceles
 - Etapa 1: Primeval Era
