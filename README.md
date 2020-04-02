@@ -6,10 +6,49 @@ __Actualmente en Desarrollo__
 
 ![Desarrollo - ROOM Modern Era - Game Maker Studio 2](https://i.imgur.com/Jko6q5Q.png)
 
-* Alfa - Desarrollo del Nivel Modern Era ,  Pruebas de Bugs *
 
-![Desarrollo - ROOM Modern Era - Game Maker Studio 2 - Gif](https://i.imgur.com/fD77WJB.gif)
 
+---
+## Funcionalidades en desarrollo `02/04/2020`
+* Player principal 
+    * Movimiento de 8x8 , Cuadriculas de 32x32 `Terminado 100%`
+* Bomb 
+    * Bomb standard `Terminado 90%`
+    * Bomb Pierce Bomb `Terminado 60%`
+    * Bomb S `Terminado 60%`
+    * Bomb H `Terminado 60%`
+    * Bomb D `Terminado 60%`
+* Items
+    - ![RemoteControl](https://vignette.wikia.nocookie.net/bomberman/images/d/d0/SB4RemoteControl.png/revision/latest?cb=20120506142825) Remote Control `Terminado 100%`
+    - ![Heart](https://vignette.wikia.nocookie.net/bomberman/images/0/00/SB4Heart.png/revision/latest?cb=20120506142711) Heart `Terminado 50%`
+    - ![Power Glove](https://vignette.wikia.nocookie.net/bomberman/images/b/bb/SB4PowerGlove.png/revision/latest?cb=20120506142742) Power Glove `Terminado 50%`
+    - ![Punch](https://vignette.wikia.nocookie.net/bomberman/images/c/c1/SB4Punch.png/revision/latest?cb=20120506142751) Punch `Terminado 50%`
+    - ![1 Up](https://vignette.wikia.nocookie.net/bomberman/images/9/95/SB41Up.png/revision/latest?cb=20120506142931) 1 Up `Terminado 50%`
+    - ![Crepe](https://vignette.wikia.nocookie.net/bomberman/images/9/90/SB4Crepe.png/revision/latest?cb=20120506222000) Crepe `Terminado 50%`
+    - ![Bomb Kick](https://vignette.wikia.nocookie.net/bomberman/images/d/d7/SB4BombKick.png/revision/latest?cb=20120506142602) Bomb Kick `Terminado 50%`
+    - ![Invincible Suit](https://vignette.wikia.nocookie.net/bomberman/images/c/ca/SB4Vest.png/revision/latest?cb=20120506142918) Invincible Suit `Terminado 50%`
+    - ![Samurai Ball](https://vignette.wikia.nocookie.net/bomberman/images/f/f9/SB4SamuraiBall.png/revision/latest?cb=20120506222829) Samurai Ball `Terminado 50%`
+    - ![Jelly](https://vignette.wikia.nocookie.net/bomberman/images/a/a0/SB4Jelly.png/revision/latest?cb=20120506223153) Jelly `Terminado 50%`
+    - ![Fire](https://vignette.wikia.nocookie.net/bomberman/images/1/17/SB4Fire.png/revision/latest?cb=20120506142642) Fire `Terminado 100%` 
+    - ![Hot Dog](https://vignette.wikia.nocookie.net/bomberman/images/a/ad/SB4HotDog.png) Hot Dog `Terminado 50%`
+    - ![Ice Cream](https://vignette.wikia.nocookie.net/bomberman/images/c/ca/SB4IceCream.png/revision/latest?cb=20120507012924) Ice Cream `Terminado 50%`
+    - ![Time](https://vignette.wikia.nocookie.net/bomberman/images/5/59/SB4Time.png/revision/latest?cb=20120506142900) Time `Terminado 50%`
+    - ![Block Pass](https://vignette.wikia.nocookie.net/bomberman/images/1/16/SB4BlockPass.png/revision/latest?cb=20120506142552) Block Pass `Terminado 50%`
+    - ![Sushi](https://vignette.wikia.nocookie.net/bomberman/images/d/d7/SB4Sushi.png/revision/latest?cb=20120507012935) Sushi `Terminado 50%`
+    - ![Bomb Up](https://vignette.wikia.nocookie.net/bomberman/images/3/37/SB4BombUp.png/revision/latest?cb=20120506142621) Bomb Up  `Terminado 50%`
+    - ![Potato](https://vignette.wikia.nocookie.net/bomberman/images/5/52/SB4Potato.png/revision/latest?cb=20120506211233) Potato `Terminado 50%`
+    - ![Bomb Pass](https://vignette.wikia.nocookie.net/bomberman/images/9/96/SB4BombPass.png/revision/latest?cb=20120506142612) Bomb Pass `Terminado 50%`
+    - ![Pierce Bomb](https://vignette.wikia.nocookie.net/bomberman/images/2/2a/SB4PierceBomb.png/revision/latest?cb=20120506142722) Pierce Bomb `Terminado 100%`
+    - ![Select Item](https://vignette.wikia.nocookie.net/bomberman/images/7/7c/SB4SelectItem.png/revision/latest?cb=20120506145255) Select Item `Terminado 50%`
+    - ![Speed Up](https://vignette.wikia.nocookie.net/bomberman/images/c/ca/SB4SpeedUp.png/revision/latest?cb=20120506142851) Speed Up `Terminado 50%`
+    - ![Cake](https://vignette.wikia.nocookie.net/bomberman/images/2/2e/SB4Cake.png/revision/latest?cb=20120506211223) Cake `Terminado 50%`
+    - ![Push](https://vignette.wikia.nocookie.net/bomberman/images/c/c5/SB4Push.png/revision/latest?cb=20120506142811) Push  `Terminado 50%`
+* Stages 
+    * Moder Era 
+        * Área 3.1 `Terminado 95%` 
+            * ![Desarrollo - ROOM Modern Era - Game Maker Studio 2 - Gif](https://i.imgur.com/fD77WJB.gif)
+*
+*
 ## Sprite Names - Desarrollo
 - Name Items Sprites
 
@@ -39,7 +78,7 @@ __Actualmente en Desarrollo__
     - Area 2-7
     - Area 2-8
 - Etapa 3: Modern Era
-    - Area 3-1  __Proceso de Desarrollo__
+    - Area 3-1
     - Area 3-2
     - Area 3-3
     - Area 3-4
