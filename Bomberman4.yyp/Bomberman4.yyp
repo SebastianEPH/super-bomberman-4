@@ -47,7 +47,9 @@
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
-  "MetaData": {},
+  "MetaData": {
+    "IDEVersion": "2023.6.0.92",
+  },
   "resources": [
     {"id":{"name":"spr_bomb","path":"sprites/spr_bomb/spr_bomb.yy",},},
     {"id":{"name":"spr_bomRemote","path":"sprites/spr_bomRemote/spr_bomRemote.yy",},},
