@@ -2,7 +2,13 @@
 // You can write your code in this editor
 
 // Crear bomba
-Create_Bomba()
+
+if(global.item_current_bomb_limit>=1){
+	global.item_current_bomb_limit--
+	Create_Bomba()
+}
+
+
 
 			/*	0 = Bomb
 				1 = Pierce bomb - Bomba Espina

@@ -3,9 +3,6 @@ function BombExplosion() {
 	//x = argument[1];	//Position X
 	//y = argument[2];	//Position Y
 	
-	
-
-	
 	var x1 = x;
 	var y1 = y;
 
@@ -20,7 +17,7 @@ function BombExplosion() {
 
 	// Crea explosión Centro
 	var explosion_center =  instance_create_layer(x1,y1,"ins_personaje_objetos",obj_exp)
-	explosion_center.sprite_index = spr_BombExplosionCentro; // define el sprint
+	explosion_center.sprite_index = spr_bomb_explosion_centro; // define el sprint
 
 
 	// Crea instancias a la izquierda
@@ -41,27 +38,26 @@ function BombExplosion() {
 		
 		ydo = ydo +32;
 		
-			// Crear Explosión Arriba
+		// Crear Explosión Arriba
 		var explosion_up = instance_create_layer(xup,yup,"Bomb",obj_exp);
 		
 		yup = yup -32;
 		
 		// define el sprite
 		if(i == ( global.item_fire -1)){
-			explosion_left.sprite_index = spr_BombExplosionVerticalEnd;
+			explosion_left.sprite_index = spr_bomb_explosion_vertical_end;
 			explosion_left.image_angle = 180;
-			xiz = xiz - 64;
-			explosion_rigth.sprite_index = spr_BombExplosionVerticalEnd;
-			explosion_down.sprite_index = spr_BombExplosionOblongEnd;
+			explosion_rigth.sprite_index = spr_bomb_explosion_vertical_end;
+			explosion_down.sprite_index = spr_bomb_explosion_oblong_end;
 			explosion_down.image_angle = 180;
-			explosion_up.sprite_index = spr_BombExplosionOblongEnd;
+			explosion_up.sprite_index = spr_bomb_explosion_oblong_end;
 		}else {
-			explosion_left.sprite_index = spr_BombExplosionOblong;
-			explosion_rigth.sprite_index = spr_BombExplosionOblong;
-			explosion_down.sprite_index = spr_BombExplosionVertical;
-			explosion_up.sprite_index = spr_BombExplosionVertical;
+			explosion_left.sprite_index = spr_bomb_explosion_oblong;
+			explosion_rigth.sprite_index = spr_bomb_explosion_oblong;
+			explosion_down.sprite_index = spr_bomb_explosion_vertical;
+			explosion_up.sprite_index = spr_bomb_explosion_vertical;
 		}
-			
-			
 	}
+	// restaura la cantidad de bombas a utilizar
+	global.item_current_bomb_limit++
 }
