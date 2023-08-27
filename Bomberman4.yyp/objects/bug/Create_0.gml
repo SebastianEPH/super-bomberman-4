@@ -24,7 +24,7 @@ speed = 0
 	global.BOMB_REMOTE = 3;				// item Bomba de tiempo o con control remoto
 	// Bombs configuration
 	global.item_fire = 2;				// Item Fuego, (Define que tan largó será la bomba al explorar)
-	global.item_current_bomb_limit = 1;	// cantidad de bombas actual que puede usar el personaje  
+	global.item_current_bomb_limit = 12;	// cantidad de bombas actual que puede usar el personaje  
 	
 	global.BOMB_QUANTITY_LIMIT = 12;    // limite de bombas que se pueden usar
 	global.item_bombKick = false;		// Item Empujar bombas	  // si este item esta true, item_bombPass debe ser falso
@@ -42,7 +42,21 @@ speed = 0
 	global.item_select_item = false;	// Item Creo que aparecen distintos items en éste items
 
 	
-	global.typeBomb = 1                  
+	global.typeBomb = 1;   // tipo de bomba 
+	
+	// las áreas son para el manjo de sprites de paredes u otros componentes que influyen en el mapa 
+	global.area_modern_era = 3;
+
+	
+	global.area_cap_1 = 1;
+	
+	// este pedazo de codigo debe estar dentro del mapa, ya que identifica el tipo de mapa y capitulo 
+	global.current_area = global.area_modern_era;  //  [esto para el manejo de sprites]
+	global.current_cap = global.area_cap_1;
+	
+	
+	
+	
 #endregion
 #region
 

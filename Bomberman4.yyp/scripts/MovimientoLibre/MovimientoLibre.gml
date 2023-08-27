@@ -34,7 +34,7 @@ function MovimientoLibre() {
 				//Ésta parte del codigo hace que el personaje, quede siempre en cuadricula de 32+32, sumando 8x8
 				with (bug){
 				    if !place_snapped(32, 32){
-				        move_snap(8,8);
+				        move_snap(16,16); // estaba en 8
 				    }
 				 }	
 				speed = 0

@@ -18,10 +18,15 @@ function BombExplosion() {
 	// Crea explosión Centro
 	var explosion_center =  instance_create_layer(x1,y1,"ins_personaje_objetos",obj_exp)
 	explosion_center.sprite_index = spr_bomb_explosion_centro; // define el sprint
-
+	
+	var _current_item_fire = global.item_fire;
+	
+	if(global.typeBomb == global.BOMB_PIERCE){
+		_current_item_fire = 15 
+	}
 
 	// Crea instancias a la izquierda
-	for (var i = 0; i < global.item_fire; i += 1){
+	for (var i = 0; i < _current_item_fire; i += 1){
 		
 		// Crear Explosión Izquierda
 		var explosion_left = instance_create_layer(xiz,yiz,"Bomb",obj_exp);
@@ -44,7 +49,7 @@ function BombExplosion() {
 		yup = yup -32;
 		
 		// define el sprite
-		if(i == ( global.item_fire -1)){
+		if(i == ( _current_item_fire -1)){
 			explosion_left.sprite_index = spr_bomb_explosion_vertical_end;
 			explosion_left.image_angle = 180;
 			explosion_rigth.sprite_index = spr_bomb_explosion_vertical_end;
